@@ -1,0 +1,5 @@
+- credits -
+
+sm - Antoine
+colehuges - Cole
+    also help with makefile
