@@ -263,3 +263,5 @@ int main(void)
     ft_putstr("\"help\" to start\n");
     menu_loop("user","");
 }
+
+//sup ;)
